@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/lambda.dir/CZS_Require.cpp.o CMakeFiles/lambda.dir/Parse_tx.cpp.o CMakeFiles/lambda.dir/main.cpp.o CMakeFiles/lambda.dir/socket_js.cpp.o  -o lambda -lzmq -lbitcoin -lboost_system -lbitcoin-client -lbitcoin-protocol -ljsoncpp 
